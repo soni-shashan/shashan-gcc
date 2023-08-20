@@ -1,5 +1,22 @@
 # shashan-gcc
 <img src="https://t.bkit.co/w_64ded2fd01f21.gif" />
+
+SHASHAN GCC 1.0.1
+
+~>Add Print Function
+
+~>For Print Need #include<numeral.h>
+
+~>New Specifiers "%b" Add In Print Function decimal to binary converts
+
+~>Including Specifiers "%d"/"%i", "%f", "%o", "%x","%c","%s".
+
+~> Add binary Function Its Return Integer.
+
+~>Remove scans Function
+
+SHASHAN GCC 1.0.0
+
 ~Release SHASHAN GCC With Some Futures Given Below
 
 All Standard Library In Include One Library so you can use all function only need #include<shashan.h>
