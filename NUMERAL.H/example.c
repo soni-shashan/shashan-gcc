@@ -12,7 +12,7 @@ void main () {
     print("Decimal: %d\n",n);
     print("Binary: %b\n",n);
     print("String: %s\n","Hello");
-    print("char: %c\n","C");
+    print("char: %c\n",'C');
     print("Octa Decimal: %o\n",n);
     print("Hexa Decimal: %x\n",n);
     print("Int: %d\n",5);
